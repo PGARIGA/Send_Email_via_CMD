@@ -58,5 +58,4 @@ Send-MailMessage -From $From -To $To -Bcc $Bcc -Subject $Subject -Body $Body -At
 ## Conclusion
 This PowerShell script provides a simple yet effective way to send emails with attachments using Office 365 SMTP. By automating email notifications, you can streamline reporting and alerting processes efficiently.
 
-For more PowerShell automation scripts, check out our [GitHub repository](https://github.com/your-repository).
 
